@@ -1,4 +1,4 @@
-# java and dsa in java
+# Dsa in java
 My data structures and algorithm solutions for leetcode and practice.
 # Java and DSA in Java 🚀
 

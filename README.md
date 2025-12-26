@@ -1,6 +1,6 @@
 # Dsa in java
 My data structures and algorithm solutions for leetcode and practice.
-# Java and DSA in Java 🚀
+# DSA in Java 🚀
 
 This repository contains my *Java solutions* to LeetCode problems and *Data Structures & Algorithms* practice exercises.
 
